@@ -142,4 +142,4 @@ BUILD SUCCESSFUL
 Total time: 5 seconds
  
 The command "./build.sh" exited with 0.
-Done. Your build exited with 0.
+Done. Your build exited with 0..
